@@ -7,11 +7,11 @@ multiplication=x*y
 division=x/y
 remender=x%y
 
-print(f"addition {sum}")
-print(f"substraction {substraction}")
-print(f"multiplication {multiplication}")
-print(f"division {division}")
-print(f"remender k{remender}")
+print(f"addition -{sum}")
+print(f"substraction -{substraction}")
+print(f"multiplication -{multiplication}")
+print(f"division -{division}")
+print(f"remender -{remender}")
 
 
 
